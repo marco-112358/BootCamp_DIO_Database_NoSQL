@@ -149,7 +149,7 @@ Alguns provedores de nuvem lidam com essas operações nos bastidores como um se
         Replicação e persistência;
         Compatibilidade com a sua linguagem de desenvolvimento preferencial, entre outros.
 
-- | Bancos de dados relacionais | Bancos de dados NoSQL
+Característica | Bancos de dados relacionais | Bancos de dados NoSQL
 --------------------------|-----------------------------|----------------------------
 Cargas de trabalho ideais | Bancos de dados relacionais são projetados para aplicativos transacionais e fortemente consistentes de processamento de transações online (OLTP) e são bons para processamento analítico online (OLAP). | 	Os bancos de dados do NoSQL são projetados para vários padrões de acesso aos dados que incluem aplicativos de baixa latência. Os bancos de dados de pesquisa NoSQL são projetados para análise de dados semiestruturados.
 Modelo de dados	|O modelo relacional normaliza dados em tabelas, compostas por linhas e colunas. Um esquema define estritamente tabelas, colunas, índices, relações entre tabelas e outros elementos do banco de dados. O banco de dados impõe a integridade referencial nos relacionamentos entre as tabelas. | Os bancos de dados NoSQL fornecem uma variedade de modelos de dados, como chave-valor, documento e gráfico, que são otimizados para performance e escala.  
