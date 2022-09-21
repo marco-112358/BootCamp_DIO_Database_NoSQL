@@ -4,7 +4,7 @@
 
 ---
 
-![ranking](./img/ranking_BD.jpg)
+![ranking](ranking_BD.jpg)
 
 #### 1- Introdução:
 
