@@ -51,7 +51,7 @@ Alguns provedores de nuvem lidam com essas operações nos bastidores como um se
 
 ***Altamente funcional***: os bancos de dados NoSQL fornecem APIs e tipos de dados altamente funcionais criados especificamente para cada um de seus respectivos modelos de dados.
 
-![](./img/tipos_bd_nosql.png)
+![](tipos_bd_nosql.png)
 
 * ***Tipos de bancos de dados NoSQL***
 
